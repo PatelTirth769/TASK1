@@ -1,0 +1,9 @@
+
+                               PRODUCT PRICING PAGE
+
+
+         In this project i create a pricing page which have 
+         one toggle button for in this have two phases monthly/yearly
+         based on that there is 3 container which have 3 plans each have 
+         diffrent functionality. In this project we use html,css,and java 
+         script
